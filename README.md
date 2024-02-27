@@ -5,6 +5,7 @@ Precon:
   2. main page alredy contains tasks
 
 
+
 1. Add new task to the list
   - click text area
   - type new task in text area
